@@ -8,5 +8,6 @@
  - Fifth Chapter
  - Sixth Chapter
  - Seventh Chapter
+ - Eighth Chapter
  
 
