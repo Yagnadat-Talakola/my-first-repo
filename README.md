@@ -7,5 +7,6 @@
  - Fourth Chapter
  - Fifth Chapter
  - Sixth Chapter
+ - Seventh Chapter
  
 
